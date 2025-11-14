@@ -1,0 +1,11 @@
+# Exclude romanch folder
+romanch /
+romanch/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
