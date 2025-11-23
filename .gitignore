@@ -1,6 +1,13 @@
+
 # Exclude romanch folder
-romanch /
 romanch/
+
+# Exclude large files (>50MB)
+aryan/one_more/aryan_killer_tests/input/input00.txt
+aryan/one_more/aryan_killer_tests/input/input01.txt
+aryan/one_more/aryan_killer_tests/input/input02.txt
+aryan/one_more/aryan_killer_tests/input/input04.txt
+atharv/atharv_test_cases/Archive.zip
 
 # macOS system files
 .DS_Store

@@ -1,0 +1,6 @@
+5
+a a
+a b
+ab aa
+aa ab
+abc def
