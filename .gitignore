@@ -1,7 +1,4 @@
 
-# Exclude romanch folder
-romanch/
-
 # Exclude large files (>50MB)
 aryan/one_more/aryan_killer_tests/input/input00.txt
 aryan/one_more/aryan_killer_tests/input/input01.txt
